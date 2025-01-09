@@ -24,7 +24,7 @@ Bu program, LinkedIn Learning eğitimlerindeki videoları indirmenize yardımcı
 
 1. Repoyu klonlayın
 ```bash
-git clone https://github.com/onder7/linkedin-learning-downloader.git
+https://github.com/onder7/LinkedIn-Learning-Video-Downloader.git
 cd linkedin-learning-downloader
 ```
 
