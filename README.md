@@ -81,8 +81,9 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICE
 3. Değişikliklerinizi commit edin (`git commit -m 'Add some AmazingFeature'`)
 4. Branch'inizi push edin (`git push origin feature/AmazingFeature`)
 5. Pull Request oluşturun
-
+Exe halini buradan ulaşabilirsiniz
+https://drive.google.com/file/d/1bdIwkQ1k0OjT_H_XzwKBOjamDfR9GsV0/view?usp=drive_link
 ## İletişim
 
-GitHub: [kullaniciadi](https://github.com/onder7)
+GitHub: onder7](https://github.com/onder7)
 Onder7@gmail.com
